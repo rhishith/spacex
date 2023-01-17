@@ -17,6 +17,9 @@ body{
     font-family: bold,Arial,Verdana,sans-serif;
     background-color: black;
 }
+
+/* section start */
+
 section{
     min-height: 100vh;
     background-repeat: no-repeat;
@@ -56,6 +59,7 @@ section{
     border-color: transparent;
 }
 
+/* section end */
 
 html, body{
     margin: 0;
@@ -66,6 +70,9 @@ body{
     color:#fff;
     font-family: D-DIN-Bold,Arial,Verdana,sans-serif;
 }
+
+/* header start */
+
 a{
     color: #fff;
 }
@@ -137,6 +144,11 @@ header a.logo{
     left:0;
     width: 100%;
 }
+
+/* header end */
+
+/* footer start */
+
 footer{
     padding: 38px;
     font-size: 12px;
@@ -248,3 +260,5 @@ nav.mobile-nav a:nth-child(9){transition-delay: .6s;}
 nav.mobile-nav a:nth-child(10){transition-delay: .65s;}
 nav.mobile-nav a:nth-child(11){transition-delay: .7s;}
 nav.mobile-nav a:nth-child(12){transition-delay: .75s;}
+
+/* footer end */
